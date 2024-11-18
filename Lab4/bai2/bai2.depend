@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731913953 source:d:\oop\it002-23520634\lab4\bai2\class.cpp
+	"class.h"
+
+1731913981 d:\oop\it002-23520634\lab4\bai2\class.h
+	<bits/stdc++.h>
+
+1731914396 source:d:\oop\it002-23520634\lab4\bai2\main.cpp
+	"class.h"
+
