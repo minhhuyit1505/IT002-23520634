@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1731340540 source:d:\oop\it002-23520634\chuong 7\bai1\class.cpp
+	"class.h"
+	<iostream>
+
+1731340521 d:\oop\it002-23520634\chuong 7\bai1\class.h
+	<bits/stdc++.h>
+
