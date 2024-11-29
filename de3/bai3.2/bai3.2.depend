@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1732866372 source:d:\oop\it002-23520634\de3\bai3.2\advisor.cpp
+	"Advisor.h"
+
+1732866110 d:\oop\it002-23520634\de3\bai3.2\advisor.h
+	"Piece.h"
+
+1732865894 d:\oop\it002-23520634\de3\bai3.2\piece.h
+	<bits/stdc++.h>
+
+1732866372 source:d:\oop\it002-23520634\de3\bai3.2\cannon.cpp
+	"Cannon.h"
+
+1732865485 d:\oop\it002-23520634\de3\bai3.2\cannon.h
+	"Piece.h"
+
+1732866372 source:d:\oop\it002-23520634\de3\bai3.2\chariot.cpp
+	"Chariot.h"
+
+1732865510 d:\oop\it002-23520634\de3\bai3.2\chariot.h
+	"Piece.h"
+
+1732866372 source:d:\oop\it002-23520634\de3\bai3.2\elephant.cpp
+	"Elephant.h"
+
+1732865406 d:\oop\it002-23520634\de3\bai3.2\elephant.h
+	"Piece.h"
+
+1732866372 source:d:\oop\it002-23520634\de3\bai3.2\horse.cpp
+	"Horse.h"
+
+1732865419 d:\oop\it002-23520634\de3\bai3.2\horse.h
+	"Piece.h"
+
+1732866415 source:d:\oop\it002-23520634\de3\bai3.2\king.cpp
+	"King.h"
+
+1732865371 d:\oop\it002-23520634\de3\bai3.2\king.h
+	"Piece.h"
+
+1732866372 source:d:\oop\it002-23520634\de3\bai3.2\pawn.cpp
+	"Pawn.h"
+
+1732865446 d:\oop\it002-23520634\de3\bai3.2\pawn.h
+	"Piece.h"
+
+1732865150 source:d:\oop\it002-23520634\de3\bai3.2\piece.cpp
+	"Piece.h"
+
+1732865593 source:d:\oop\it002-23520634\de3\bai3.2\main.cpp
+	"Board.h"
+
+1732865604 d:\oop\it002-23520634\de3\bai3.2\board.h
+	"Piece.h"
+
+1732865551 source:d:\oop\it002-23520634\de3\bai3.2\board.cpp
+	"Board.h"
+	"King.h"
+	"Advisor.h"
+	"Elephant.h"
+	"Horse.h"
+	"Chariot.h"
+	"Cannon.h"
+	"Pawn.h"
+
